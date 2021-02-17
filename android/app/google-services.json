@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468367317200",
+    "project_id": "webfix-c8001",
+    "storage_bucket": "webfix-c8001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468367317200:android:b55ab910f52696857fa6d5",
+        "android_client_info": {
+          "package_name": "com.waqasapps.webfix_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468367317200-1np7ndnij1mpoeih8f5celhgs3svg4tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeYKHmA3WgUMjYbAMw-g-1vyxsQ40T-ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468367317200-1np7ndnij1mpoeih8f5celhgs3svg4tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
